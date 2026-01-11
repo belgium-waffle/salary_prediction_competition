@@ -3,7 +3,7 @@
 ![Competition Banner](https://img.shields.io/badge/Rank-1st%20Place-gold?style=for-the-badge&logo=kaggle) ![Language](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python) ![Model](https://img.shields.io/badge/Model-CatBoost%20%2B%20LightGBM%20%2B%20Ridge-orange?style=for-the-badge)
 
 ## 📌 Overview
-This repository contains the **1st place solution** for the **EEE G513 Machine Learning for EE** Salary Prediction Competition (T2 Evaluative Component). The objective was to predict average salaries for various job roles across 1,000+ cities globally, accounting for complex local economic conditions.
+This repository contains the **1st place solution** for the **EEE G513 Machine Learning for EE** Salary Prediction [Kaggle Competition](https://www.kaggle.com/competitions/eee-g513/). The objective was to predict average salaries for various job roles across 1,000+ cities globally, accounting for complex local economic conditions.
 
 Our winning approach utilizes a robust **Stacking Ensemble** of **CatBoost** and **LightGBM** regressors, blended with a **Ridge Regression** meta-learner. We heavily focused on **feature engineering** to capture the non-linear relationship between 52 cost-of-living indicators and salary distributions.
 
